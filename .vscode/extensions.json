@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "github.copilot",
+        "github.copilot-chat",
+        
+        "ms-python.debugpy",
+        "ms-python.python"
+    ]
+}
