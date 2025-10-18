@@ -7,6 +7,8 @@
         "github.copilot-chat",
         
         "ms-python.debugpy",
-        "ms-python.python"
+        "ms-python.python",
+
+        "mechatroner.rainbow-csv"
     ]
 }
